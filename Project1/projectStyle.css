@@ -1,0 +1,23 @@
+body {background-color: rgb(230, 230, 230);}
+h1{
+	display: block;
+    position: relative;
+    text-align: center;
+    height: 65px;
+    padding-top: 25px;
+
+}
+h2{
+	display: block;
+    position: relative;
+    text-align: center;
+    height: 65px;
+    padding-top: 25px
+}
+.menu a{
+	display: block;
+    position: relative;
+    text-align: center;
+    padding-top: 25px
+	font-family: arial;
+}
