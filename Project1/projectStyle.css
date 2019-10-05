@@ -3,7 +3,7 @@ header{
   background-image: url("images/bookpile.jpg");
   background-size: 100%;
   background-position: right;
-  height: 400px;
+  height: 195px;
 }
 h1{
 	display: block;
@@ -13,6 +13,7 @@ h1{
     color: white;
     padding-top: 25px;
     font-family: arial;
+    font-size: 60px;
 
 }
 h2{
@@ -21,6 +22,10 @@ h2{
     text-align: center;
     height: 65px;
     padding-top: 25px
+}
+.menu{
+  margin: auto;
+  text-align: center;
 }
 .menu a{
   max-width: 500px;
@@ -41,4 +46,5 @@ h2{
 }
 h3{
   font-family: arial;
+  font-size: 30px;
 }
