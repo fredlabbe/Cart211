@@ -48,3 +48,29 @@ h3{
   font-family: arial;
   font-size: 30px;
 }
+h4{
+  font-family: arial;
+  font-size: 25px;
+}
+.black{
+  margin:auto;
+  background-color: black;
+  color: white;
+  font-family: arial;
+  font-size: 14px;
+  height: 300px;
+}
+.white{
+  margin:auto;
+  color: black;
+  font-family: arial;
+  font-size: 14px;
+  height: 300px;
+}
+.class3_p {
+	font-size: 40px;
+	font-family: arial, sans serif;
+	font-weight: bold;
+	color: red;
+
+}
